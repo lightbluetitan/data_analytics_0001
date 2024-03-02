@@ -1,8 +1,8 @@
 ---
-title: "Bar Charts - Diagramas de Barras"
-subtitle: "Python en RStudio"
-author: "Renzo Rossi Velasquez"
-date: "2024/03/01"
+title: "Bar Charts"
+subtitle: "Python en R"
+author: "Renzo Cáceres Rossi"
+date: "2024/03/02"
 ---
 
 ```{r setup,include=FALSE}
